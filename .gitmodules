@@ -1,0 +1,6 @@
+[submodule "3.Implementacao/IFSP_Anote---Front"]
+	path = 3.Implementacao/IFSP_Anote---Front
+	url = https://github.com/GaTimpone/IFSP_Anote---Front.git
+[submodule "3.Implementacao/IFSP_Anote---Back"]
+	path = 3.Implementacao/IFSP_Anote---Back
+	url = https://github.com/GaTimpone/IFSP_Anote---Back.git
